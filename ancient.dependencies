@@ -15,7 +15,7 @@
    "remote"       : "github",
    "repository"   : "EmanuelCN/kernel_xiaomi_sm8250",
    "target_path"  : "kernel/xiaomi/alioth",
-   "branch"       : "S",
+   "branch"       : "S"
    },
    {
    "remote"       :"github",
