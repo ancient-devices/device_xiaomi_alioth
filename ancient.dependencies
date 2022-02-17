@@ -7,6 +7,12 @@
    },
    {
    "remote"       : "github",
+   "repository"   : "theangelofdead01/weeb_device_xiaomi_sm8250-common",
+   "target_path"  : "device/xiaomi/sm8250-common",
+   "branch"       : "12"
+   },
+   {
+   "remote"       : "github",
    "repository"   : "EmanuelCN/kernel_xiaomi_sm8250",
    "target_path"  : "kernel/xiaomi/alioth",
    "branch"       : "S",
