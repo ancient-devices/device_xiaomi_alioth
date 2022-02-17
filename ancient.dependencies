@@ -3,7 +3,7 @@
    "remote"       : "github",
    "repository"   : "drkphnx/vendor_xiaomi",
    "target_path"  : "vendor/xiaomi/alioth",
-   "branch"       : "twelve"
+   "branch"       : "12"
    },
    {
    "remote"       : "github",
