@@ -1,0 +1,27 @@
+[
+  {
+    "remote":"ancient",
+    "repository":"hardware_qcom-caf_sm8250_display",
+    "target_path":"hardware/qcom-caf/sm8250/display"
+  },
+  {
+    "remote":"ancient",
+    "repository":"hardware_qcom-caf_sm8250_audio",
+    "target_path":"hardware/qcom-caf/sm8250/audio"
+  },
+  {
+    "remote":"ancient",
+    "repository":"hardware_qcom-caf_sm8250_media",
+    "target_path":"hardware/qcom-caf/sm8250/media"
+  },
+  {
+    "remote":"ancient",
+    "repository":"hardware_xiaomi",
+    "target_path":"hardware/xiaomi"
+  },
+  {
+    "remote":"ancient",
+    "repository":"packages_resources_devicesettings",
+    "target_path":"packages/resources/devicesettings"
+  }  
+]
