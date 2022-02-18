@@ -4,6 +4,11 @@
     "repository":"hardware_qcom-caf_sm8250_display",
     "target_path":"hardware/qcom-caf/sm8250/display"
   },
+   {
+    "remote":"ancient",
+    "repository":"device_xiaomi_sm8250-common",
+    "target_path":"device/xiaomi/sm8250-common
+  },
   {
     "remote":"ancient",
     "repository":"hardware_qcom-caf_sm8250_audio",
